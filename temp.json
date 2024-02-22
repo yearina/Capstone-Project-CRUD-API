@@ -1,0 +1,410 @@
+[
+    {
+        "id": "",
+        "data": [
+            {
+                "id_barang": "dvcfak2o",
+                "nama": "kecap manis bango 220mL",
+                "harga": 12090,
+                "jumlah": 1
+            },
+            {
+                "id_barang": "awPxVQxJ",
+                "nama": "Mama lemon jeruk nipis 680 ml",
+                "harga": 9380,
+                "jumlah": 2
+            }
+        ]
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+    {
+        "id":"",
+        "data": [
+            {
+                "id_barang": "",
+                "nama": "",
+                "harga": 0,
+                "jumlah": 0
+            }
+
+        ]
+
+    },
+
+
+    {
+        "name":"",      //VARCHAR(250)
+        "password":""   //VARCHAR(50)
+    },
+
+    {
+        "name":"",      //VARCHAR(250)
+        "password":"",  //VARCHAR(50)
+        "email":"",     //VARCHAR(100)
+        "posisi":""     //VARCHAR(50)
+    },
+
+    {
+        "id":"",        //VARCHAR(8)
+        "nama":"",      //VARCHAR(100)
+        "hargaJual":"", //INT
+        "hargaBeli":"", //INT
+        "stock": ,      //INT
+        "keterangan":   //TEXT
+    }
+
+]
+
+{
+    "id": "YRDBMyfJ",
+    "total": 121600,
+    "tanggal": "2023-01-03 17:00:00",
+    "data": [
+        {
+            "id_barang": "ai-Wb_1c",
+            "nama": "Kokoro Pulpen Zebra Sweet Gel 0.5Mm ( 1Pak/12Pcs )",
+            "harga": 57500,
+            "jumlah": 2
+        },
+        {
+            "id_barang": "yuT5eyGd",
+            "nama": "Fruit Tea Minuman Teh 500  Ml",
+            "harga": 6600,
+            "jumlah": 1
+        }
+    ]
+}
+
+{
+    "idBeli": "", //VARCHAR(8)
+}
+
+{
+    "nama": "NU TEH TARIK 330 Ml",
+    "hargaJual": 8590,
+    "hargaBeli": 7590,
+    "stock": 57,
+    "keterangan": ""
+}
+
+{
+    "id_barang": "ai-Wb_1c" ,   //VARCHAR(8)
+    "jumlah": 100               //INT
+}
+
+{
+    "id": "-964yGRU",
+    "nama": "NU TEH TARIK 330 Ml",
+    "hargaJual": 8590,
+    "hargaBeli": 7590,
+    "stock": 57,
+    "keterangan": ""
+}
+
+[
+    {
+        "id_barang": "ai-Wb_1c" ,   //VARCHAR(8)
+        "jumlah": 100               //INT
+    }
+    {
+        "id_barang": "-964yGRU" ,   //VARCHAR(8)
+        "jumlah": 90                //INT
+    }
+]
+
+{
+    "id_transaksi": "AJVW_y2T",
+    "id_barang": "bAQwvb2N",
+    "id_beli": "06OyXgem",
+    "jumlah": 10,
+    "total": 77296,
+    "tgl_pembelian": "2023-03-28 11:34:50",
+    "total_harga": 404874
+},
+{
+    "id_transaksi": "EKKG7FXa",
+    "id_barang": "1-njaQF1",
+    "id_beli": "06OyXgem",
+    "jumlah": 2,
+    "total": 22890,
+    "tgl_pembelian": "2023-03-28 11:34:50",
+    "total_harga": 404874
+},
+{
+    "id_transaksi": "Mz7ze29u",
+    "id_barang": "bcYYZQrk",
+    "id_beli": "06OyXgem",
+    "jumlah": 5,
+    "total": 7400,
+    "tgl_pembelian": "2023-03-28 11:34:50",
+    "total_harga": 404874
+},
+{
+    "id_transaksi": "9BAgGQda",
+    "id_barang": "64n8AjK7",
+    "id_beli": "06ylEN6S",
+    "jumlah": 9,
+    "total": 27690,
+    "tgl_pembelian": "2023-01-23 11:07:20",
+    "total_harga": 77900
+},
+
+{
+    "id_barang": "9960fGaS",        //VARCHAR 8
+    "nama": "Chocolate Oatside 1L", //VARCHAR 100
+    "harga_jual": 47000,            //INT
+    "harga_beli": 39000,            //INT
+    "stock": 28,                    //INT
+    "keterangan":                   //TEXT (Boleh kosong)
+},
+{
+    "id_barang": "9bV2ZV6F",
+    "nama": "Aqua Air Mineral Botol 1500 Ml",
+    "harga_jual": 6130,
+    "harga_beli": 5980,
+    "stock": 29,
+    "keterangan":
+}
+
+
+{
+
+id_barang: '9bV2ZV6F',
+nama: 'Aqua Air Mineral Botol 1500 Ml',
+harga_jual: 6130,
+harga_beli: 5980,
+stock: 29,
+keterangan:

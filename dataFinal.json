@@ -1,0 +1,715 @@
+[
+    {
+        "nama": "beras anak raja 5 kg",
+        "hargaBeli": 69500,
+        "hargaJual": 71000,
+        "stock": 500,
+        "keterangan": ""
+    },
+    {
+        "nama": "gulaku 1 kg",
+        "hargaBeli": 16000,
+        "hargaJual": 18300,
+        "stock": 650,
+        "keterangan": ""
+    },
+    {
+        "nama": "kecap manis bango 220mL",
+        "hargaBeli": 11790,
+        "hargaJual": 12090,
+        "stock": 550,
+        "keterangan": ""
+    },
+    {
+        "nama": "Mama lemon jeruk nipis 680 ml",
+        "hargaBeli": 9380,
+        "hargaJual": 9390,
+        "stock": 553,
+        "keterangan": ""    
+    },
+    {
+        "nama": "Minyak Kayu Putih Caplang 120Ml",
+        "hargaBeli": 40000,
+        "hargaJual": 42655,
+        "stock": 558,
+        "keterangan": ""
+    },
+    {
+        "nama": "ABC Sambal Bawang Pedas 275 Ml",
+        "hargaBeli": 14490,
+        "hargaJual": 14490,
+        "stock": 670,
+        "keterangan": ""
+    },
+    {
+        "nama": "Ladaku merica bubuk 100 gr",
+        "hargaBeli": 38999,
+        "hargaJual": 41390,
+        "stock": 671,
+        "keterangan": ""
+    },
+    {
+        "nama": "ultramilk fullcream 1000ml",
+        "hargaBeli": 209900,
+        "hargaJual": 209900,
+        "stock": 489,
+        "keterangan": ""
+    },
+    {
+        "nama": "Indomie goreng",
+        "hargaBeli": 3090,
+        "hargaJual": 3290,
+        "stock": 532,
+        "keterangan": ""    
+    },
+    {
+        "nama": "Indomie goreng rendang",
+        "hargaBeli": 2990,
+        "hargaJual": 3190,
+        "stock": 696,
+        "keterangan": ""    
+    },
+    {
+        "nama": "Indomie goreng mie aceh",
+        "hargaBeli": 2990,
+        "hargaJual": 2990,
+        "stock": 484,
+        "keterangan": ""    },
+    {
+        "nama": "Indomie kuah soto mie",
+        "hargaBeli": 2990,
+        "hargaJual": 3080,
+        "stock": 787,
+        "keterangan": ""    },
+    {
+        "nama": "Fiesta Chicken Nugget ",
+        "hargaBeli": 50400,
+        "hargaJual": 56650,
+        "stock": 878,
+        "keterangan": ""
+    },
+    {
+        "nama": "Champ Nugget 500Gr",
+        "hargaBeli": 36900,
+        "hargaJual": 39000,
+        "stock": 575,
+        "keterangan": ""
+    },
+    {
+        "nama": "Kanzler Crispy Chicken Nugget",
+        "hargaBeli": 41705,
+        "hargaJual": 44500,
+        "stock": 469,
+        "keterangan": ""
+    },
+    {
+        "nama": "Cheese Cocktail Sausage Sosis Sapi 500G",
+        "hargaBeli": 44999,
+        "hargaJual": 47500,
+        "stock": 465,
+        "keterangan": ""
+    },
+    {
+        "nama": "Kanzler Bockwurst 360 Gr Sosis",
+        "hargaBeli": 50000,
+        "hargaJual": 58930,
+        "stock": 483,
+        "keterangan": ""
+    },
+    {
+        "nama": "Fruit Tea Minuman Teh 500  Ml",
+        "hargaBeli": 6025,
+        "hargaJual": 6600,
+        "stock": 477,
+        "keterangan": ""    },
+    {
+        "nama": "Sosro Teh Botol 350 Ml",
+        "hargaBeli": 42500,
+        "hargaJual": 44160,
+        "stock": 459,
+        "keterangan": ""
+    },
+    {
+        "nama": "Pocari Sweat 350 Ml",
+        "hargaBeli": 6980,
+        "hargaJual": 7120,
+        "stock": 454,
+        "keterangan": ""    
+    },
+    {
+        "nama": " Nu Green Tea Honey 450",
+        "hargaBeli": 6600,
+        "hargaJual": 6790,
+        "stock": 463,
+        "keterangan": ""    },
+    {
+        "nama": " Nu Green Tea Original 450",
+        "hargaBeli": 6600,
+        "hargaJual": 6600,
+        "stock": 555,
+        "keterangan": ""    },
+    {
+        "nama": " Nu Green Tea Less Sugar 450",
+        "hargaBeli": 6600,
+        "hargaJual": 6790,
+        "stock": 644,
+        "keterangan": ""    },
+    {
+        "nama": " Nu Green Tea Royal Jasmine 450",
+        "hargaBeli": 6600,
+        "hargaJual": 6600,
+        "stock": 646,
+        "keterangan": ""    },
+    {
+        "nama": "Milo Original 21 Sachet",
+        "hargaBeli": 76000,
+        "hargaJual": 76200,
+        "stock": 639,
+        "keterangan": ""
+    },
+    {
+        "nama": "Energen Choco Bag 20Sx29G",
+        "hargaBeli": 41330,
+        "hargaJual": 41330,
+        "stock": 633,
+        "keterangan": ""
+    },
+    {
+        "nama": "Energen Kurma Isi 10 X 30 G",
+        "hargaBeli": 22400,
+        "hargaJual": 24888,
+        "stock": 639,
+        "keterangan": ""
+    },
+    {
+        "nama": "Energen Kacang Hijau 10Sx30G",
+        "hargaBeli": 21360,
+        "hargaJual": 22760,
+        "stock": 460,
+        "keterangan": ""
+    },
+    {
+        "nama": "Oatside Oat Milk Barista Blend Chocolate Hazelnut 1Liter",
+        "hargaBeli": 38000,
+        "hargaJual": 67000,
+        "stock": 350,
+        "keterangan": ""
+    },
+    {
+        "nama": "Chocolate Oatside 1L",
+        "hargaBeli": 39000,
+        "hargaJual": 47000,
+        "stock": 328,
+        "keterangan": ""
+    },
+    {
+        "nama": "Nabati Richeese Wafer Krim Keju 127 Gr",
+        "hargaBeli": 8290,
+        "hargaJual": 8290,
+        "stock": 327,
+        "keterangan": ""    
+    },
+    {
+        "nama": "NEXTAR Cookies Choco Brownies 90 G",
+        "hargaBeli": 8790,
+        "hargaJual": 8790,
+        "stock": 425,
+        "keterangan": ""    
+    },
+    {
+        "nama": "NEXTAR Cookies Strawberry 90 G",
+        "hargaBeli": 8690,
+        "hargaJual": 8690,
+        "stock": 561,
+        "keterangan": ""    
+    },
+    {
+        "nama": "KitKat Wafer Chunky 38Gr",
+        "hargaBeli": 13200,
+        "hargaJual": 13250,
+        "stock": 545,
+        "keterangan": ""
+    },
+    {
+        "nama": "Pocky Choco Banana Stick Biscuit 42 G",
+        "hargaBeli": 7900,
+        "hargaJual": 8300,
+        "stock": 641,
+        "keterangan": ""    },
+    {
+        "nama": "Pocky Cookies Cream 40 G",
+        "hargaBeli": 8740,
+        "hargaJual": 8740,
+        "stock": 443,
+        "keterangan": ""    
+    },
+    {
+        "nama": "Detol Antiseptik Cair 245Ml",
+        "hargaBeli": 56999,
+        "hargaJual": 65000,
+        "stock": 556,
+        "keterangan": ""
+    },
+    {
+        "nama": "KISPRAY GLAMOROUS GOLD POUCH 280 ML",
+        "hargaBeli": 6680,
+        "hargaJual": 6690,
+        "stock": 250,
+        "keterangan": ""    },
+    {
+        "nama": "Tessa Multi Facial Tissue 1000 Gr",
+        "hargaBeli": 42750,
+        "hargaJual": 62200,
+        "stock": 452,
+        "keterangan": ""
+    },
+    {
+        "nama": "Lux Sabun Mandi Cair Velvet Jasmine 825 ml",
+        "hargaBeli": 35500,
+        "hargaJual": 38700,
+        "stock": 471,
+        "keterangan": ""
+    },
+    {
+        "nama": "Body Wash Soft Rose 900 Ml 825Ml",
+        "hargaBeli": 34999,
+        "hargaJual": 35500,
+        "stock": 370,
+        "keterangan": ""
+    },
+    {
+        "nama": "Sunslik Soft Smooth Sampo 340 Ml",
+        "hargaBeli": 34000,
+        "hargaJual": 42000,
+        "stock": 249,
+        "keterangan": ""
+    },
+    {
+        "nama": "Shampoo Sunslik Black Shine 680Ml",
+        "hargaBeli": 65000,
+        "hargaJual": 66000,
+        "stock": 583,
+        "keterangan": ""
+    },
+    {
+        "nama": "Listerine Mouth Wash Zero 250Ml",
+        "hargaBeli": 16890,
+        "hargaJual": 24030,
+        "stock": 667,
+        "keterangan": ""
+    },
+    {
+        "nama": "Listerine Mouth Wash Original 250 Ml",
+        "hargaBeli": 25490,
+        "hargaJual": 25490,
+        "stock": 790,
+        "keterangan": ""
+    },
+    {
+        "nama": "Rexona Women Powder Dry Roll On 45 Ml Deodorant",
+        "hargaBeli": 22190,
+        "hargaJual": 22190,
+        "stock": 348,
+        "keterangan": ""
+    },
+    {
+        "nama": "Rexona Men Roll On Active Bright 45 Ml Deodorant",
+        "hargaBeli": 22190,
+        "hargaJual": 22190,
+        "stock": 396,
+        "keterangan": ""
+    },
+    {
+        "nama": "Rexona Roll On Dreamy White 40 Ml Deodorant",
+        "hargaBeli": 17990,
+        "hargaJual": 17990,
+        "stock": 492,
+        "keterangan": ""
+    },
+    {
+        "nama": "Pringles Potato Original 107Gr Original",
+        "hargaBeli": 35000,
+        "hargaJual": 55080,
+        "stock": 475,
+        "keterangan": ""
+    },
+    {
+        "nama": "Pringles Sour Cream Onion 107 Gr",
+        "hargaBeli": 24890,
+        "hargaJual": 26960,
+        "stock": 763,
+        "keterangan": ""
+    },
+    {
+        "nama": "Biskuat Coklat 121 6 Gr",
+        "hargaBeli": 10390,
+        "hargaJual": 10390,
+        "stock": 558,
+        "keterangan": ""
+    },
+    {
+        "nama": "Ovale Facial Lotion 200 Ml Whitening",
+        "hargaBeli": 31900,
+        "hargaJual": 33000,
+        "stock": 249,
+        "keterangan": ""
+    },
+    {
+        "nama": "Ovale Facial Lotion Lemon 200 Ml",
+        "hargaBeli": 31900,
+        "hargaJual": 33900,
+        "stock": 523,
+        "keterangan": ""
+    },
+    {
+        "nama": "Melon Sirup Marjan 460Ml",
+        "hargaBeli": 31500,
+        "hargaJual": 34500,
+        "stock": 620,
+        "keterangan": ""
+    },
+    {
+        "nama": "Sirup Marjan Leci 460Ml",
+        "hargaBeli": 29000,
+        "hargaJual": 32900,
+        "stock": 621,
+        "keterangan": ""
+    },
+    {
+        "nama": "ABC Squash Orange 460 Ml Sirup",
+        "hargaBeli": 11200,
+        "hargaJual": 11200,
+        "stock": 323,
+        "keterangan": ""
+    },
+    {
+        "nama": "DOLPIN Garam Dapur 500 G",
+        "hargaBeli": 7500,
+        "hargaJual": 8000,
+        "stock": 322,
+        "keterangan": ""
+    },
+    {
+        "nama": "attack Plus Softener 800 Gr",
+        "hargaBeli": 26290,
+        "hargaJual": 27690,
+        "stock": 326,
+        "keterangan": ""
+    },
+    {
+        "nama": "Soklin Softener Blu Pch 900 Ml",
+        "hargaBeli": 12570,
+        "hargaJual": 13130,
+        "stock": 327,
+        "keterangan": ""
+    },
+    {
+        "nama": "Tolak Angin Cair 15Ml 1 Box",
+        "hargaBeli": 40000,
+        "hargaJual": 41000,
+        "stock": 529,
+        "keterangan": ""
+    },
+    {
+        "nama": "Tolak Angin Flu Box 12 Pcs",
+        "hargaBeli": 51531,
+        "hargaJual": 51834,
+        "stock": 439,
+        "keterangan": ""
+    },
+    {
+        "nama": "Tolak Angin Cair Anak Box 12 Pcs",
+        "hargaBeli": 54562,
+        "hargaJual": 56744,
+        "stock": 737,
+        "keterangan": ""
+    },
+    {
+        "nama": "Molto Pewangi Pakaian Pink Refill 900 Ml",
+        "hargaBeli": 11700,
+        "hargaJual": 17100,
+        "stock": 541,
+        "keterangan": ""
+    },
+    {
+        "nama": "Wardah Sabun Muka Renew You",
+        "hargaBeli": 34055,
+        "hargaJual": 34500,
+        "stock": 752,
+        "keterangan": ""
+    },
+    {
+        "nama": "Monde Butter Cookies 908Gr",
+        "hargaBeli": 147000,
+        "hargaJual": 155300,
+        "stock": 33,
+        "keterangan": ""
+    },
+    {
+        "nama": "Monde Butter Cookies 454Gr",
+        "hargaBeli": 77000,
+        "hargaJual": 83600,
+        "stock": 122,
+        "keterangan": ""
+    },
+    {
+        "nama": "Roma Biscuit Kelapa 300 Gr",
+        "hargaBeli": 10870,
+        "hargaJual": 10870,
+        "stock": 44,
+        "keterangan": ""
+    },
+    {
+        "nama": "Roma Malkist Cokelat Kelapa 135 G",
+        "hargaBeli": 8380,
+        "hargaJual": 8840,
+        "stock": 32,
+        "keterangan": ""    
+    },
+    {
+        "nama": "Beng Beng Cokelat Wafer 63 Gr",
+        "hargaBeli": 7790,
+        "hargaJual": 7790,
+        "stock": 135,
+        "keterangan": ""    
+    },
+    {
+        "nama": "Beng Beng Nuts Chocolate Almond 35 Gr",
+        "hargaBeli": 7990,
+        "hargaJual": 7990,
+        "stock": 37,
+        "keterangan": ""    
+    },
+    {
+        "nama": "Viva Face Tonic Bengkuang 100 Ml",
+        "hargaBeli": 6351,
+        "hargaJual": 7400,
+        "stock": 28,
+        "keterangan": ""    },
+    {
+        "nama": "You C1000 You C 1000 Isotonik Lemon Water 500 M",
+        "hargaBeli": 8990,
+        "hargaJual": 9290,
+        "stock": 100,
+        "keterangan": ""    },
+    {
+        "nama": "You C1000 You C 1000 Isotonik Orange Water 500 M",
+        "hargaBeli": 8990,
+        "hargaJual": 9290,
+        "stock": 98,
+        "keterangan": ""    },
+    {
+        "nama": "Soklin Floor Cleaner Apple Pouch 1.6 Liter",
+        "hargaBeli": 31690,
+        "hargaJual": 31790,
+        "stock": 59,
+        "keterangan": ""
+    },
+    {
+        "nama": "SOKLIN FLOOR CLEANER KUNING POUCH 780 ML - PEMBERSIH LANTAI",
+        "hargaBeli": 11330,
+        "hargaJual": 11870,
+        "stock": 57,
+        "keterangan": ""
+    },
+    {
+        "nama": "Kapal Api Kopi Bubuk Special 165Gr",
+        "hargaBeli": 12190,
+        "hargaJual": 12490,
+        "stock": 60,
+        "keterangan": ""
+    },
+    {
+        "nama": "Kapal Api Grande Java Latte Bag Isi 20 Sachet X20 Gr",
+        "hargaBeli": 28890,
+        "hargaJual": 28890,
+        "stock": 40,
+        "keterangan": ""
+    },
+    {
+        "nama": "Aqua Air Mineral Botol 600 Ml",
+        "hargaBeli": 3480,
+        "hargaJual": 3590,
+        "stock": 30,
+        "keterangan": ""    
+    },
+    {
+        "nama": "Aqua Air Mineral Botol 1500 Ml",
+        "hargaBeli": 5980,
+        "hargaJual": 6130,
+        "stock": 29,
+        "keterangan": ""    },
+    {
+        "nama": "Selection Kapas Wajah 35 Gr",
+        "hargaBeli": 5400,
+        "hargaJual": 6000,
+        "stock": 20,
+        "keterangan": ""    },
+    {
+        "nama": "Selection Kapas Round 80 S Kapas Wajah Bulat",
+        "hargaBeli": 10500,
+        "hargaJual": 17800,
+        "stock": 37,
+        "keterangan": ""
+    },
+    {
+        "nama": "Paseo Tissue Serap Minyak Makanan Kitchen Towel",
+        "hargaBeli": 32900,
+        "hargaJual": 45000,
+        "stock": 40,
+        "keterangan": ""
+    },
+    {
+        "nama": "Pepsodent Sikat Gigi Double Care Clean Mp3",
+        "hargaBeli": 22890,
+        "hargaJual": 22890,
+        "stock": 52,
+        "keterangan": ""
+    },
+    {
+        "nama": "Pepsodent Sikat Gigi Double Care Sensitive Soft 3 Pcs",
+        "hargaBeli": 27800,
+        "hargaJual": 52600,
+        "stock": 20,
+        "keterangan": ""
+    },
+    {
+        "nama": "JAPOTA Ayam Bawang 68 Gr",
+        "hargaBeli": 9590,
+        "hargaJual": 9590,
+        "stock": 70,
+        "keterangan": ""    },
+    {
+        "nama": "JAPOTA Happy Honey Butter 68 Gr",
+        "hargaBeli": 8990,
+        "hargaJual": 8990,
+        "stock": 77,
+        "keterangan": ""   
+    },
+    {
+        "nama": "Sabut Spons Anti Gores 1Pc Sponge Cuci Piring 557",
+        "hargaBeli": 12900,
+        "hargaJual": 12900,
+        "stock": 72,
+        "keterangan": ""
+    },
+    {
+        "nama": "Himalaya Purifying Neem Mask 50Ml",
+        "hargaBeli": 18900,
+        "hargaJual": 23100,
+        "stock": 55,
+        "keterangan": ""
+    },
+    {
+        "nama": "FreshCare Strong Minyak Angin 10Ml 1 Botol",
+        "hargaBeli": 12300,
+        "hargaJual": 13520,
+        "stock": 51,
+        "keterangan": ""
+    },
+    {
+        "nama": "FreshCare Roll On Splash Fruity 10 Ml",
+        "hargaBeli": 13594,
+        "hargaJual": 13625,
+        "stock": 42,
+        "keterangan": ""
+    },
+    {
+        "nama": "Promag Double Action Box 36 Tablet",
+        "hargaBeli": 72749,
+        "hargaJual": 77296,
+        "stock": 71,
+        "keterangan": ""
+    },
+    {
+        "nama": "DIAPET Box 120 Kapsul",
+        "hargaBeli": 64662,
+        "hargaJual": 70686,
+        "stock": 20,
+        "keterangan": ""
+    },
+    {
+        "nama": "KIT Wash Wax Pch 800 Ml",
+        "hargaBeli": 32210,
+        "hargaJual": 35900,
+        "stock": 28,
+        "keterangan": ""
+    },
+    {
+        "nama": "Mobil Shampoo Kit Wash Glow 1L",
+        "hargaBeli": 30000,
+        "hargaJual": 35678,
+        "stock": 29,
+        "keterangan": ""
+    },
+    {
+        "nama": "sinar dunia Hvs A4 75Gr",
+        "hargaBeli": 45000,
+        "hargaJual": 50000,
+        "stock": 63,
+        "keterangan": ""
+    },
+    {
+        "nama": "sinar dunia Kertas Hvs A4 80 Gram",
+        "hargaBeli": 55500,
+        "hargaJual": 58550,
+        "stock": 66,
+        "keterangan": ""
+    },
+    {
+        "nama": "Snowman Pulpen V1",
+        "hargaBeli": 12000,
+        "hargaJual": 21300,
+        "stock": 67,
+        "keterangan": ""
+    },
+    {
+        "nama": "Kokoro Pulpen Zebra Sweet Gel 0.5Mm ( 1Pak/12Pcs )",
+        "hargaBeli": 55200,
+        "hargaJual": 57500,
+        "stock": 61,
+        "keterangan": ""
+    },
+    {
+        "nama": "Nabati Wafer Kaleng Rasa Keju 287Gr",
+        "hargaBeli": 36600,
+        "hargaJual": 40500,
+        "stock": 54,
+        "keterangan": ""
+    },
+    {
+        "nama": "NU TEH TARIK 330 Ml",
+        "hargaBeli": 7590,
+        "hargaJual": 7590,
+        "stock": 57,
+        "keterangan": ""    
+    },
+    {
+        "nama": "Indocafe Cappucino 10 Pcs X 25 Gr Kopi",
+        "hargaBeli": 23990,
+        "hargaJual": 23990,
+        "stock": 159,
+        "keterangan": ""
+    },
+    {
+        "nama": "Kapal Api Coffee Special Bubuk 160 Gr Kopi",
+        "hargaBeli": 13990,
+        "hargaJual": 13990,
+        "stock": 51,
+        "keterangan": ""
+    },
+    {
+        "nama": "Kapal Api Grande Java Latte Bag Isi 20 Sachet X20 Gr",
+        "hargaBeli": 28890,
+        "hargaJual": 28890,
+        "stock": 42,
+        "keterangan": ""
+    },
+    {
+        "nama": "La Fonte Spaghetti Pasta 450 G",
+        "hargaBeli": 17690,
+        "hargaJual": 18190,
+        "stock": 139,
+        "keterangan": ""
+    }
+]
